@@ -1,0 +1,36 @@
+body{
+  background-image: url("../img/background/typewriter.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+nav{
+  font-family: 'Dosis', sans-serif;
+}
+footer{
+    margin-top: -5vh;
+}
+.negrito{
+  font-size:4vh;
+}
+.imagem{
+  height:30px;
+  width:30px;
+  margin:0.5vh;
+}
+.preto{
+  color:black;
+}
+#row{
+  margin-top:75vh;
+  margin-bottom:75vh;
+  width:100%;
+  font-size: 2vh;
+  padding-top: 9vh;
+  padding-left: 35vh;
+  padding-bottom: 9vh;
+  padding-right: 35vh;
+}
+#footer{
+  margin-right:60vh;
+
+}
